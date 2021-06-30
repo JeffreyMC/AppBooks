@@ -1,3 +1,7 @@
+[![JeffreyMC](https://img.shields.io/badge/JeffreyMC-Developer-red)](https://github.com/JeffreyMC)
+[![Licencia](https://img.shields.io/github/license/JeffreyMC/AppBooks)](https://github.com/JeffreyMC/AppBooks/blob/main/LICENSE)
+[![Twitter Follow](https://img.shields.io/twitter/follow/JeffreyMC16?style=social)](https://twitter.com/JeffreyMC16)
+
 # APP DE  CONTROL DE LIBROS
 
 Aplicación web sencilla que permite agregar y eliminar libros.
