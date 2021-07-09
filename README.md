@@ -1,3 +1,4 @@
+[![Open in Visual Studio Code](https://open.vscode.dev/badges/open-in-vscode.svg)](https://open.vscode.dev/JeffreyMC/AppBooks)
 [![JeffreyMC](https://img.shields.io/badge/JeffreyMC-Developer-red)](https://github.com/JeffreyMC)
 [![Licencia](https://img.shields.io/github/license/JeffreyMC/AppBooks)](https://github.com/JeffreyMC/AppBooks/blob/main/LICENSE)
 [![Twitter Follow](https://img.shields.io/twitter/follow/JeffreyMC16?style=social)](https://twitter.com/JeffreyMC16)
